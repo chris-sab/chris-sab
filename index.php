@@ -37,7 +37,7 @@
                 <h1 class="name">Christopher Saburo</h1>
                 <h2 class="desc">Web Full Stack Developer</h2>
                 <ul class="social list-inline">
-                    <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i class="fab fa-linkedin-in"></i></a></li>
                     <li class="list-inline-item"><a href="https://github.com/Bluesky19930906/"><i
                                 class="fab fa-github-alt"></i></a></li>
                 </ul>
@@ -185,7 +185,7 @@
                         <h2 class="heading sr-only">Basic Information</h2>
                         <div class="content">
                             <ul class="list-unstyled">
-                                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Osaka,
+                                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Oita,
                                     Japan</li>
                                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
                                         href="#">sblue5807276@gmail.com</a></li>
