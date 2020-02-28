@@ -171,6 +171,17 @@
                                     <p class="mb-2">React / Gatsby / GraphQL / Contentful</p>
                                 </div>
                             </div>
+                            <div class="item row">
+                                <a class="col-md-4 col-12" href="https://www.deedsalone.com/" target="_blank">
+                                    <img class="img-fluid project-image" src="assets/images/projects/project-7.png"
+                                        alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-12">
+                                    <h3 class="title"><a href="https://www.deedsalone.com/">Deeds Built By Athletes |
+                                            Deeds Alone</a></h3>
+                                    <p class="mb-2">Wordpress / Divi / PhP / Javascript</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </section>
