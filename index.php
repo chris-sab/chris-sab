@@ -219,6 +219,8 @@
                                     Japan</li>
                                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
                                         href="#">sblue5807276@gmail.com</a></li>
+                                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Discord ID:
+                                        Chris0906#9771</span></li>
                             </ul>
                         </div>
                         <!--//content-->
