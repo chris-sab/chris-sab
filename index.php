@@ -232,11 +232,20 @@
                         <div class="content">
                             <div class="skillset">
                                 <div class="item">
-                                    <h3 class="level-title">Java SpringBoot<span class="level-label"
-                                            data-toggle="tooltip" data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>70%</span></h3>
+                                    <h3 class="level-title">VueJS<span class="level-label" data-toggle="tooltip"
+                                            data-placement="left" data-animation="true"><i
+                                                class="fas fa-info-circle"></i>96%</span></h3>
                                     <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="70%">
+                                        <div class="level-bar-inner" data-level="96%">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <h3 class="level-title">NuxtJS<span class="level-label" data-toggle="tooltip"
+                                            data-placement="left" data-animation="true"><i
+                                                class="fas fa-info-circle"></i>92%</span></h3>
+                                    <div class="level-bar">
+                                        <div class="level-bar-inner" data-level="92%">
                                         </div>
                                     </div>
                                 </div>
@@ -275,25 +284,7 @@
                                         <div class="level-bar-inner" data-level="80%">
                                         </div>
                                     </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">VueJS<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>96%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">NuxtJS<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>92%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="92%">
-                                        </div>
-                                    </div>
-                                </div>
+                                </div>                                
                                 <div class="item">
                                     <h3 class="level-title">Quasar<span class="level-label" data-toggle="tooltip"
                                             data-placement="left" data-animation="true"><i
