@@ -218,8 +218,7 @@
                                 <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Oita,
                                     Japan</li>
                                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
-                                        href="#">sblue5807276@gmail.com</a></li>
-                                <li>Discord ID : <a href="#">Chris0906#9771</a></li>
+                                        href="#">sblue5807276@gmail.com</a></li>                                
                             </ul>
                         </div>
                         <!--//content-->
