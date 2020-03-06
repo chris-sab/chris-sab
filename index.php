@@ -234,7 +234,7 @@
                                 <div class="item">
                                     <h3 class="level-title">VueJS<span class="level-label" data-toggle="tooltip"
                                             data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>96%</span></h3>
+                                                class="fas fa-info-circle"></i>97%</span></h3>
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="96%">
                                         </div>
@@ -243,7 +243,16 @@
                                 <div class="item">
                                     <h3 class="level-title">NuxtJS<span class="level-label" data-toggle="tooltip"
                                             data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>92%</span></h3>
+                                                class="fas fa-info-circle"></i>96%</span></h3>
+                                    <div class="level-bar">
+                                        <div class="level-bar-inner" data-level="92%">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <h3 class="level-title">Gridsome<span class="level-label" data-toggle="tooltip"
+                                            data-placement="left" data-animation="true"><i
+                                                class="fas fa-info-circle"></i>93%</span></h3>
                                     <div class="level-bar">
                                         <div class="level-bar-inner" data-level="92%">
                                         </div>
