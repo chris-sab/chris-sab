@@ -348,7 +348,7 @@
                         <div class="content">
                             <div class="item">
                                 <h3 class="title"><i class="fas fa-graduation-cap"></i> BSc Computer Science</h3>
-                                <h4 class="university">University of Tokyo <span class="year">(2009-2013)</span></h4>
+                                <h4 class="university">University of Georgia <span class="year">(2009-2013)</span></h4>
                             </div>
                         </div>
                     </div>
