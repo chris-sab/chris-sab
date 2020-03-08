@@ -218,7 +218,7 @@
                                 <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Oita,
                                     Japan</li>
                                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
-                                        href="#">sblue5807276@gmail.com</a></li>                                
+                                        href="#">christopher.saburo@outlook.com</a></li>                                
                             </ul>
                         </div>
                         <!--//content-->
