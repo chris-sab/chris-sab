@@ -136,6 +136,16 @@
                                 </div>
                             </div>
                             <div class="item row">
+                                <a class="col-md-4 col-12" href="https://collarti.com/" target="_blank">
+                                    <img class="img-fluid project-image" src="assets/images/projects/project-8.png"
+                                        alt="project name" />
+                                </a>
+                                <div class="desc col-md-8 col-12">
+                                    <h3 class="title"><a href="https://collarti.com/" target="_blank">Discover & Get it & Badej</a></h3>
+                                    <p class="mb-2">React / NodeJS / Firebase / GraphQL / MongoDB / Go / ExpressJS </p>
+                                </div>
+                            </div>
+                            <div class="item row">
                                 <a class="col-md-4 col-12" href="https://www.realtimereviews.com/" target="_blank">
                                     <img class="img-fluid project-image" src="assets/images/projects/project-4.png"
                                         alt="project name" />
