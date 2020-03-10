@@ -63,7 +63,7 @@
 
                             <p>
                                 - <strong>Backend RESTful API Development/Integration</strong><br>
-                                Java SpringBoot, Node.js, Express.js, Laravel, CI
+                                Node.js, Express.js, Laravel, CI
                             </p>
                             <p>
                                 - <strong>Firebase Development/Deployment</strong><br>
@@ -141,7 +141,8 @@
                                         alt="project name" />
                                 </a>
                                 <div class="desc col-md-8 col-12">
-                                    <h3 class="title"><a href="https://collarti.com/" target="_blank">Discover & Get it & Badej</a></h3>
+                                    <h3 class="title"><a href="https://collarti.com/" target="_blank">Discover & Get it
+                                            & Badej</a></h3>
                                     <p class="mb-2">React / NodeJS / Firebase / GraphQL / MongoDB / Go / ExpressJS </p>
                                 </div>
                             </div>
@@ -228,127 +229,8 @@
                                 <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Oita,
                                     Japan</li>
                                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
-                                        href="#">christopher.saburo@outlook.com</a></li>                                
+                                        href="#">christopher.saburo@outlook.com</a></li>
                             </ul>
-                        </div>
-                        <!--//content-->
-                    </div>
-                    <!--//section-inner-->
-                </aside>
-                <aside class="skills aside section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-                    <div class="section-inner">
-                        <h2 class="heading">Skills</h2>
-                        <div class="content">
-                            <div class="skillset">
-                                <div class="item">
-                                    <h3 class="level-title">VueJS<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>97%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="96%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">NuxtJS<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>96%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="92%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">Gridsome<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>93%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="92%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">NodeJS<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>92%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="92%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">React<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>85%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="85%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">NextJS<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>83%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="83%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">Gatsby<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>80%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="80%">
-                                        </div>
-                                    </div>
-                                </div>                                
-                                <div class="item">
-                                    <h3 class="level-title">Quasar<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>89%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="89%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">Wordpress<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>75%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="75%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">API Integration<span class="level-label"
-                                            data-toggle="tooltip" data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>84%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="84%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">AWS Cloud Service<span class="level-label"
-                                            data-toggle="tooltip" data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>87%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="87%">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <h3 class="level-title">FireBase<span class="level-label" data-toggle="tooltip"
-                                            data-placement="left" data-animation="true"><i
-                                                class="fas fa-info-circle"></i>73%</span></h3>
-                                    <div class="level-bar">
-                                        <div class="level-bar-inner" data-level="73%">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </aside>
