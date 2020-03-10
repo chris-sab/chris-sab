@@ -42,7 +42,7 @@
                         <p style="font-size: 1.2rem;">Experienced Senior Web Developer with a demonstrated history of
                             working in
                             marketing, education. Skilled in VueJS, NuxtJS, Quasar, React, NextJS, Gatsby, NodeJS,
-                            SpringBoot, Wordpress, AWS Cloud development.
+                            Wordpress, FireBase, AWS Cloud Service.
                         </p>
                         <div class="content">
                             <p>
