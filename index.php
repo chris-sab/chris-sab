@@ -27,7 +27,7 @@
                 <ul class="social list-inline">
                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
                                 class="fab fa-linkedin-in"></i></a></li>
-                    <li class="list-inline-item"><a href="https://github.com/Bluesky19930906/"><i
+                    <li class="list-inline-item"><a href="https://github.com/chris-saburo/"><i
                                 class="fab fa-github-alt"></i></a></li>
                 </ul>
             </div>
