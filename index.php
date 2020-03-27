@@ -41,7 +41,7 @@
                         <h2 class="heading">About Me</h2>
                         <p style="font-size: 1.2rem;">Experienced Senior Web Developer with a demonstrated history of
                             working in
-                            marketing, education. Skilled in VueJS, NuxtJS, Quasar, React, NextJS, Gatsby, NodeJS,
+                            marketing, education. Skilled in VueJS, NuxtJS, Quasar, Asp.Net, React, NextJS, Gatsby, NodeJS,
                             Wordpress, FireBase, AWS Cloud Service.
                         </p>
                         <div class="content">
@@ -63,7 +63,7 @@
 
                             <p>
                                 - <strong>Backend RESTful API Development/Integration</strong><br>
-                                Node.js, Express.js, Laravel, CI
+                                Node.js, Asp.Net, Asp.Net Core, Express.js, Laravel, CI
                             </p>
                             <p>
                                 - <strong>Firebase Development/Deployment</strong><br>
