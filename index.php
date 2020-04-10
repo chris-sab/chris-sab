@@ -39,11 +39,11 @@
         <section class="about section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
           <div class="section-inner">
             <h2 class="heading">About Me</h2>
-            <p style="font-size: 1.2rem;">Experienced Senior Web Developer with a demonstrated history of
+            <p style="font-size: 1.2rem;">Experienced senior web developer with a demonstrated history of
               working in
-              marketing, education. Very Top-Rated Skillful in VueJS, NuxtJS, Quasar, GridSome, NodeJS, and proficient
+              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, gridsome, nodejs and proficient
               in
-              PHP, Wordpress, FireBase, AWS Cloud Service.
+              php, wordpress, firebase, aws cloud service.
             </p>
             <div class="content">
               <p>
