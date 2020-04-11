@@ -41,7 +41,8 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">Experienced senior web developer with a demonstrated history of
               working in
-              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, gridsome, nodejs and proficient
+              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, angular2+, react, gridsome, nodejs
+              and proficient
               in
               php, wordpress, firebase, aws cloud service.
             </p>
@@ -51,11 +52,10 @@
                 VueJS, Vue 2, Vue-CLI, Nuxt.js, Quasar, VueXORM, VueXSAX, TailwindCSS, Vuetify
               </p>
               <p>
-                - <strong>React Frontend Development</strong><br>
-                React, Gatsby, Next.js, Redux, Saga/Thunk, React-Material-UI,
+                - <strong>AngularJS, Angular2+, React Frontend Development</strong><br>
+                AngularJS, Angular2+, React, Gatsby, Next.js, Redux, Saga/Thunk, React-Material-UI,
                 React-Bootstrap, React-Apollo, GraphQL, React Native
               </p>
-
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
                 Node.js, Express.js, PHP / Laravel / CI
