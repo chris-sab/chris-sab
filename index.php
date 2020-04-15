@@ -41,7 +41,8 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">Experienced senior web developer with a demonstrated history of
               working in
-              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, angular2+, react, gridsome, nodejs
+              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, angular2+, react, gridsome,
+              nodejs, nestjs
               and proficient
               in
               php, wordpress, firebase, aws cloud service.
@@ -58,7 +59,7 @@
               </p>
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
-                Node.js, Express.js, PHP / Laravel / CI
+                Node.js, Nest.js, Express.js, PHP / Laravel / CI
               </p>
               <p>
                 - <strong>Firebase Development/Deployment</strong><br>
