@@ -23,7 +23,7 @@
         style="border-radius: 50%;" />
       <div class="profile-content float-left">
         <h1 class="name">Christopher Saburo</h1>
-        <h2 class="desc">Senior Web Full Stack Developer</h2>
+        <h2 class="desc" style="color: black; font-size: 20px;">Senior VueJS / NuxtJS / GoLang / PHP Developer</h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
                 class="fab fa-linkedin-in"></i></a></li>
@@ -41,8 +41,9 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">Experienced senior web developer with a demonstrated history of
               working in
-              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, angular2+, react, gridsome,
-              nodejs, nestjs
+              marketing, education. Very top-rated skillful in vuejs, nuxtjs, golang, quasar, angular2+, react,
+              gridsome,
+              nodejs
               and proficient
               in
               php, wordpress, firebase, aws cloud service.
@@ -59,7 +60,7 @@
               </p>
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
-                Node.js, Nest.js, Express.js, PHP / Laravel / CI
+                Golang, Node.js, Nest.js, Express.js, PHP / Laravel / CI
               </p>
               <p>
                 - <strong>Firebase Development/Deployment</strong><br>
