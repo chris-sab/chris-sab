@@ -228,6 +228,8 @@
                   Japan</li>
                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
                     href="#">christopher.saburo@outlook.com</a></li>
+                <li><i class="fas fa-envelope"></i><span class="sr-only">Skype:</span><a
+                    href="#">christopher.saburo@outlook.com</a></li>
               </ul>
             </div>
           </div>
