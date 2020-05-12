@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior VueJS | NuxtJS | Quasar | Gridsome | Angular2+ | React | Gatsby Developer
+          Senior VueJS | NuxtJS | Quasar | Gridsome | Shopify | Angular2+ | React | Gatsby Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -47,13 +47,17 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web developer with a demonstrated history of working in
-              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, angular2+, react,
+              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, shopify, angular2+, react,
               gridsome, nodejs and proficient in php, golang, firebase, aws cloud service.
             </p>
             <div class="content">
               <p>
                 - <strong>Vue Frontend Development</strong><br>
                 VueJS, Vue 2, Vue-CLI, Nuxt.js, Quasar, VueXORM, VueXSAX, TailwindCSS, Vuetify
+              </p>
+              <p>
+                - <strong>Ecommerce Development</strong><br>
+                Shopify, BigCommerce, Liquid
               </p>
               <p>
                 - <strong>AngularJS, Angular2+, React Frontend Development</strong><br>
@@ -202,6 +206,31 @@
                     <li>Integrated 3rd Party API</li>
                     <li>Made it Mobile Responsive</li>
                     <li>Used Bootstrap-Vue</li>
+                  </p>
+                </div>
+              </div>
+
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://satechi.net/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-11.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://satechi.net/" target="_blank">
+                      Satechi Hardware Selling Site
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    Shopify / Shopify Theme Integration / Liquid / WCAG
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Installed basic shopify theme</li>
+                    <li>Customized themes for each feature </li>
+                    <li>Mobile responsive</li>
+                    <li>WCAG2.1</li>
                   </p>
                 </div>
               </div>
