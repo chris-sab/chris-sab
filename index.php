@@ -53,7 +53,7 @@
             <div class="content">
               <p>
                 - <strong>Vue Frontend Development</strong><br>
-                VueJS, Vue 2, Vue-CLI, Nuxt.js, Quasar, VueXORM, VueXSAX, TailwindCSS, Vuetify
+                VueJS, Vue 2, Vue-CLI, Nuxt.js, Quasar, Gridsome, VueXORM, VueXSAX, TailwindCSS, Vuetify
               </p>
               <p>
                 - <strong>Ecommerce Development</strong><br>
