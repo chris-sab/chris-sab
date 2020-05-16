@@ -265,55 +265,79 @@
               </div>
 
               <div class="item row">
-                <a class="col-md-5 col-12" href="https://www.hotel-paris-belloy.com/" target="_blank">
+                <a class="col-md-5 col-12" href="https://www.auctria.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-5.png" alt="project name" />
                 </a>
                 <div class="col-md-7 col-12">
                   <h3 class="title">
-                    <a href="https://www.hotel-paris-belloy.com/">
-                      The Left Bank experience in the heart of Saint-Germain-des-Pres Review Application
+                    <a href="https://www.auctria.com/">
+                      Auctria - Running your fundraising events
                     </a>
                   </h3>
                   <p class="mb-2">
                     - <strong>Develop Stack</strong> :<br />
-                    VueJS / MomentJS / Laravel / PHP / MySQL / AWS Cloud Service
+                    VueJS / Gridsome / GraphQL / Contentful
                   </p>
                   <p class="mb-2">
                     - <strong>What I have done</strong> :<br />
                     <li><strong>Scratch Development</strong></li>
+                    <li>Developed with Gridsome</li>
                     <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Used VueX ORM</li>
+                    <li>Integrated Service with AWS S3</li>
                     <li>Made it Mobile Responsive</li>
                     <li>Used Bootstrap-Vue</li>
-                    <li>Integrated Back End</li>
+                    <li>Used GraphQL</li>
                   </p>
                 </div>
               </div>
 
               <div class="item row">
-                <a class="col-md-5 col-12" href="https://www.bids.com/" target="_blank">
+                <a class="col-md-5 col-12" href="https://www.ecosupplycenter.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-2.png" alt="project name" />
                 </a>
                 <div class="col-md-7 col-12">
                   <h3 class="title">
-                    <a href="https://www.bids.com/" target="_blank">
-                      Best Online Acutions - Bids Ecommerce Site
+                    <a href="https://www.ecosupplycenter.com/" target="_blank">
+                      Green Building Solution For A Sustainable Future
                     </a>
                   </h3>
                   <p class="mb-2">
                     - <strong>Develop Stack</strong> :<br />
-                    VueJS / Shopify / AWS Lambda / HoganJS
+                    VueJS / GridSome / GraphQL / Contentful
                   </p>
                   <p class="mb-2">
                     - <strong>What I have done</strong> :<br />
                     <li><strong>Scratch Development</strong></li>
+                    <li>Developed All UI components from scratch with GridSome</li>
                     <li>Made it Mobile Responsive</li>
-                    <li>Integrated Authentifacation Module</li>
-                    <li>Integrated 3rd Party API using Docker</li>
-                    <li>Customized UI Components</li>
                     <li>Architecutred VueX State Management</li>
-                    <li>Integrated Back End</li>
+                    <li>Integrated GraphQL</li>
+                  </p>
+                </div>
+              </div>
+
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://www.yellowbrick.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-12.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://www.yellowbrick.com/">
+                      Yellow Brick Modern Data Warehouse Hybrid Cloud Service
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    VueJS / GridSome / GraphQL / MarkDown
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch with GridSome</li>
+                    <li>Integrated GraphQL</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made it Mobile Responsive</li>
+                    <li>Used MarkDown</li>
                   </p>
                 </div>
               </div>
