@@ -211,24 +211,27 @@
               </div>
 
               <div class="item row">
-                <a class="col-md-5 col-12" href="https://satechi.net/" target="_blank">
+                <a class="col-md-5 col-12" href="https://thebluedelta.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-11.png" alt="project name" />
                 </a>
                 <div class="col-md-7 col-12">
                   <h3 class="title">
-                    <a href="https://satechi.net/" target="_blank">
-                      Satechi Hardware Selling Site
+                    <a href="https://thebluedelta.com/" target="_blank">
+                      Volkswagen Email Corporate Communication CMS Web Site
                     </a>
                   </h3>
                   <p class="mb-2">
                     - <strong>Develop Stack</strong> :<br />
-                    Shopify / Shopify Theme Integration / Liquid / WCAG
+                    VueJS / TailwindCSS / Component Design / NPM Library Development / 3rd API Integration / MailChimp
                   </p>
                   <p class="mb-2">
                     - <strong>What I have done</strong> :<br />
                     <li><strong>Scratch Development</strong></li>
-                    <li>Installed basic shopify theme</li>
-                    <li>Customized themes for each feature </li>
+                    <li>Developed API Supported NPM Development</li>
+                    <li>Used VueX</li>
+                    <li>Developed Initial Components for All Views from scratch </li>
+                    <li>Integrated MailChimp Service</li>
+                    <li>Special Motioning Splash Overlay Effects</li>
                     <li>Mobile responsive</li>
                     <li>WCAG2.1</li>
                   </p>
