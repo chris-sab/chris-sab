@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior VueJS | NuxtJS | Quasar | Gridsome | Shopify | Angular2+ | React | Gatsby Developer
+          Senior VueJS | NuxtJS | Quasar | Gridsome | React Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -47,8 +47,8 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web developer with a demonstrated history of working in
-              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, shopify, angular2+, react,
-              gridsome, nodejs and proficient in php, golang, firebase, aws cloud service.
+              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, react,
+              gridsome, nodejs and proficient in php, firebase, aws cloud service.
             </p>
             <div class="content">
               <p>
@@ -56,17 +56,12 @@
                 VueJS, Vue 2, Vue-CLI, Nuxt.js, Quasar, Gridsome, VueXORM, VueXSAX, TailwindCSS, Vuetify
               </p>
               <p>
-                - <strong>Ecommerce Development</strong><br>
-                Shopify, BigCommerce, Liquid
-              </p>
-              <p>
-                - <strong>AngularJS, Angular2+, React Frontend Development</strong><br>
-                AngularJS, Angular2+, React, Gatsby, Next.js, Redux, Saga/Thunk, React-Material-UI,
-                React-Bootstrap, React-Apollo, GraphQL, React Native
+                - <strong>React Frontend Development</strong><br>
+                React, NextJS, Gatsby, Redux, Saga/Thunk, React-Material-UI, React-Bootstrap, React-Apollo, GraphQL, React Native
               </p>
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
-                Golang, Node.js, Nest.js, Express.js, PHP / Laravel / CI
+                Node.js, Nest.js, Express.js, PHP / Laravel / CI
               </p>
               <p>
                 - <strong>Firebase Development/Deployment</strong><br>
@@ -211,6 +206,34 @@
               </div>
 
               <div class="item row">
+                <a class="col-md-5 col-12" href="https://www.realtimereviews.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-4.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://www.realtimereviews.com/">
+                      Real Time Review Application
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    React / NodeJS / Firebase / MongoDB / WebRTC / MailChimp
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
+                    <li>Used Redux-Saga</li>
+                    <li>Used Firebase</li>
+                    <li>Integrated WebRTC Process Module</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made it Mobile Responsive</li>
+                    <li>Used Ant-Design</li>
+                  </p>
+                </div>
+              </div>
+              
+              <div class="item row">
                 <a class="col-md-5 col-12" href="https://thebluedelta.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-11.png" alt="project name" />
                 </a>
@@ -341,34 +364,6 @@
                     <li>Integrated 3rd Party API</li>
                     <li>Made it Mobile Responsive</li>
                     <li>Used MarkDown</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://www.realtimereviews.com/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-4.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://www.realtimereviews.com/">
-                      Real Time Review Application
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    React / NodeJS / Firebase / MongoDB / WebRTC / MailChimp
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used Redux-Saga</li>
-                    <li>Used Firebase</li>
-                    <li>Integrated WebRTC Process Module</li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used Ant-Design</li>
                   </p>
                 </div>
               </div>
