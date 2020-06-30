@@ -78,7 +78,7 @@
             <div style="display: flex;">
               <div style="margin-right: 5rem;">
                 <div style="font-size: 1.3rem; font-weight: 400; color: green; margin-top: 1rem;">
-                  $25.00</div>
+                  $30.00</div>
                 <div>Hourly rate</div>
               </div>
               <div>
