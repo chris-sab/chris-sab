@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior VueJS | NuxtJS | Quasar | Gridsome | React Developer
+          Senior VueJS | NuxtJS | Quasar | Gridsome | React | NextJS | Gatsby | NodeJS Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -47,8 +47,8 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web developer with a demonstrated history of working in
-              marketing, education. Very top-rated skillful in vuejs, nuxtjs, quasar, react,
-              gridsome, nodejs and proficient in php, firebase, aws cloud service.
+              marketing, education. Very top-rated skilful in vuejs, nuxtjs, quasar, react,
+              gridsome, nodejs and proficient in firebase, aws cloud service.
             </p>
             <div class="content">
               <p>
