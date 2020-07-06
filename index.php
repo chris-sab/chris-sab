@@ -443,7 +443,7 @@
                 <p>Worked on an admin application built with React.js. Responsible for creating a User
                   Interface that would match the
                   design I was given, I also had to modify the structure of the App to improve the
-                  User Experience</p>
+                  User Experience.</p>
               </div>
             </div>
           </div>
