@@ -178,6 +178,32 @@
               </div>
 
               <div class="item row">
+                <a class="col-md-5 col-12" href="https://www.cmpmontana.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-13.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://www.cmpmontana.com/" target="_blank">
+                      Clearwater Montana Properties Mangement Site
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    VueJS / Laravel / Tailwind CSS / Twillo / API Integration / Docker
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made FrontEnd side with VueJS</li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
+                    <li>Used Docker</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Used Tailwind CSS</li>
+                  </p>
+                </div>
+              </div>
+
+              <div class="item row">
                 <a class="col-md-5 col-12" href="https://www.learna.ac.uk//" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-10.png" alt="project name" />
                 </a>
