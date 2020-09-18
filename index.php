@@ -232,6 +232,35 @@
               </div>
 
               <div class="item row">
+                <a class="col-md-5 col-12" href="https://gamedevjobs.io/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-14.png" alt="Game Dev Jobs" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://gamedevjobs.io/" target="_blank">
+                      Game Development Jobs Site
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    VueJS / NuxtJS / FireBase / Tailwind CSS / MailGun
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made Auto-Generated Slug Module</li>
+                    <li>Used Tailwind CSS</li>
+                    <li>Integrated MailGun APIs</li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
+                    <li>Used Firebase</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made it Mobile Responsive</li>
+                  </p>
+                </div>
+              </div>
+
+
+              <div class="item row">
                 <a class="col-md-5 col-12" href="https://www.realtimereviews.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-4.png" alt="project name" />
                 </a>
