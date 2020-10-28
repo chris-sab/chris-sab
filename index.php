@@ -47,7 +47,7 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web developer with a demonstrated history of working in
-              marketing, education. Very top-rated skilful in vuejs, sveltejs, nuxtjs, quasar, sepper,
+              marketing, education. Very top-rated skilful in vuejs, sveltejs, nuxtjs, quasar, sapper,
               gridsome.
             </p>
             <div class="content">
@@ -57,7 +57,7 @@
               </p>
               <p>
                 - <strong>SvelteJS Frontend Development</strong><br>
-                SvelteJS, ElderJS, SapperJS
+                SvelteJS, Sapper, ElderJS
               </p>
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
