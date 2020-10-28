@@ -52,12 +52,26 @@
             </p>
             <div class="content">
               <p>
-                - <strong>Frontend Development</strong><br>
-                VueJS, Vue 2, Vue 3, Vue-CLI, SvelteJS, NuxtJS, ElderJS, Quasar, Gridsome, Sapper, VueXORM, VueSaX, TailwindCSS, Vuetify
+                - <strong>VueJS Frontend Development</strong><br>
+                VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Quasar, Gridsome, Sapper, VueXORM, VueSaX, TailwindCSS, Vuetify
+              </p>
+              <p>
+                - <strong>SvelteJS Frontend Development</strong><br>
+                SvelteJS, ElderJS, SapperJS
               </p>
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
-                Node.js, Nest.js, Express.js, PHP / Laravel / CI
+                Node.js, Nest.js, Express.js, PHP / Laravel
+              </p>
+              <p>
+                - <strong>Firebase Development/Deployment</strong><br>
+                Firebase Authentication, Firebase Realtime Database, Firebase Could Store, Firebase
+                Cloud functions, Firebase Analytics,
+                Firebase Hosting, Firebase-CLI
+              </p>
+              <p>
+                - <strong>Amazon Web Service Development/Deployment</strong><br>
+                AWS Amplify, AWS Lambda, Amazon Cognito, Amazon EC2, Amazon S3, AWS CLI
               </p>
             </div>
             <hr>
