@@ -282,33 +282,34 @@
               </div>
 
               <div class="item row">
-                <a class="col-md-5 col-12" href="https://gamedevjobs.io/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-14.png" alt="Game Dev Jobs" />
+                <a class="col-md-5 col-12" href="https://awv.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-3.png" alt="project name" />
                 </a>
                 <div class="col-md-7 col-12">
                   <h3 class="title">
-                    <a href="https://gamedevjobs.io/" target="_blank">
-                      Game Development Jobs Site
+                    <a href="https://awv.com/" target="_blank">
+                      AWV Louvers and Dampers Management Site
                     </a>
                   </h3>
                   <p class="mb-2">
                     - <strong>Develop Stack</strong> :<br />
-                    VueJS / NuxtJS / FireBase / Tailwind CSS / MailGun
+                    VueJS / NuxtJS / Ruby on Rails / Postgresql / Mail Service
                   </p>
                   <p class="mb-2">
                     - <strong>What I have done</strong> :<br />
                     <li><strong>Scratch Development</strong></li>
-                    <li>Made Auto-Generated Slug Module</li>
-                    <li>Used Tailwind CSS</li>
-                    <li>Integrated MailGun APIs</li>
                     <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used Firebase</li>
-                    <li>Integrated 3rd Party API</li>
+                    <li>Integrated 3rd Party API to Fetch Built-Up Data</li>
+                    <li>Used VueX ORM</li>
+                    <li>Integrated SendGrid Mail Service</li>
+                    <li>Designed DB Structure</li>
                     <li>Made it Mobile Responsive</li>
+                    <li>Used Tailwind-CSS</li>
+                    <li>Integrated Back End</li>
                   </p>
                 </div>
               </div>
-
+              
               <div class="item row">
                 <a class="col-md-5 col-12" href="https://whitetriangle.agency/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-17.png" alt="project name" />
@@ -385,35 +386,6 @@
                     <li>Special Motioning Splash Overlay Effects</li>
                     <li>Mobile responsive</li>
                     <li>WCAG2.1</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://awv.com/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-3.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://awv.com/" target="_blank">
-                      AWV Louvers and Dampers Management Site
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    VueJS / NuxtJS / Ruby on Rails / Postgresql / Mail Service
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Integrated 3rd Party API to Fetch Built-Up Data</li>
-                    <li>Used VueX ORM</li>
-                    <li>Integrated SendGrid Mail Service</li>
-                    <li>Designed DB Structure</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used Tailwind-CSS</li>
-                    <li>Integrated Back End</li>
                   </p>
                 </div>
               </div>
