@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior VueJS | SvelteJS | NuxtJS | Quasar | Gridsome | ElderJS | Sapper Developer
+          Senior VueJS | SvelteJS | NuxtJS | AngularJS | Angular2+ | Quasar | Gridsome | ElderJS | Sapper Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -47,7 +47,7 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web developer with a demonstrated history of working in
-              marketing, education. Very top-rated skilful in vuejs, sveltejs, nuxtjs, quasar, sapper,
+              marketing, education. Very top-rated skilful in vuejs, sveltejs, nuxtjs, angularjs, angular2+, quasar, sapper,
               gridsome.
             </p>
             <div class="content">
@@ -58,6 +58,10 @@
               <p>
                 - <strong>SvelteJS Frontend Development</strong><br>
                 SvelteJS, Sapper, ElderJS
+              </p>
+              <p>
+                - <strong>Angular Frontend Development</strong><br>
+                AngularJS, Angular2+
               </p>
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
@@ -199,6 +203,33 @@
                     <li>Used Docker</li>
                     <li>Integrated 3rd Party API</li>
                     <li>Used Tailwind CSS</li>
+                  </p>
+                </div>
+              </div>
+
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://saturnfunnels.com/integrations/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-9.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://saturnfunnels.com/integrations/">
+                      API Mail Service System
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    Angular 7 / NodeJS / Auth / MailChimp / API Integration
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Developed in Angular 7</li>
+                    <li>Used Mail Chimp</li>
+                    <li>Integrated 3rd MailChimp API</li>
+                    <li>Created Authen Function in NodeJS</li>
+                    <li>Modulized Original Codebase By Features, Functions</li>
+                    <li>Added MailChimp Processing API in NodeJS</li>
                   </p>
                 </div>
               </div>
@@ -491,33 +522,6 @@
                     <li>Integrated 3rd Party API</li>
                     <li>Made it Mobile Responsive</li>
                     <li>Used Contentful CMS</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://saturnfunnels.com/integrations/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-9.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://saturnfunnels.com/integrations/">
-                      API Mail Service System
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    Angular / NodeJS / Auth / MailChimp / API Integration
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Customizing & Adding Feature Development</strong></li>
-                    <li>Developed in Angular 7</li>
-                    <li>Used Mail Chimp</li>
-                    <li>Integrated 3rd MailChimp API</li>
-                    <li>Created Authen Function in NodeJS</li>
-                    <li>Modulized Original Codebase By Features, Functions</li>
-                    <li>Added MailChimp Processing API in NodeJS</li>
                   </p>
                 </div>
               </div>
