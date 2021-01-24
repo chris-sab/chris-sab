@@ -219,6 +219,61 @@
               </div>
 
               <div class="item row">
+                <a class="col-md-5 col-12" href="https://www.realtimereviews.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-4.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://www.realtimereviews.com/">
+                      Real Time Review Application
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    React / NodeJS / Firebase / MongoDB / WebRTC / MailChimp
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
+                    <li>Used Redux-Saga</li>
+                    <li>Used Firebase</li>
+                    <li>Integrated WebRTC Process Module</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made it Mobile Responsive</li>
+                    <li>Used Ant-Design</li>
+                  </p>
+                </div>
+              </div>
+
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://centrifuge.io/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-6.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h3 class="title">
+                    <a href="https://centrifuge.io/">
+                      Tinlake Centrifuge - Asset backed lending protocol
+                    </a>
+                  </h3>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    React / Gatsby / GraphQL / Contentful CMS
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
+                    <li>Used GraphQL</li>
+                    <li>Used MarkDown</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made it Mobile Responsive</li>
+                    <li>Used Contentful CMS</li>
+                  </p>
+                </div>
+              </div>
+
+              <div class="item row">
                 <a class="col-md-5 col-12" href="https://saturnfunnels.com/integrations/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-9.png" alt="project name" />
                 </a>
@@ -377,34 +432,6 @@
               </div>
 
               <div class="item row">
-                <a class="col-md-5 col-12" href="https://www.realtimereviews.com/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-4.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://www.realtimereviews.com/">
-                      Real Time Review Application
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    React / NodeJS / Firebase / MongoDB / WebRTC / MailChimp
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used Redux-Saga</li>
-                    <li>Used Firebase</li>
-                    <li>Integrated WebRTC Process Module</li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used Ant-Design</li>
-                  </p>
-                </div>
-              </div>
-              
-              <div class="item row">
                 <a class="col-md-5 col-12" href="https://thebluedelta.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-11.png" alt="project name" />
                 </a>
@@ -506,33 +533,6 @@
                     <li>Integrated 3rd Party API</li>
                     <li>Made it Mobile Responsive</li>
                     <li>Used MarkDown</li>
-                  </p>
-                </div>
-              </div>
-
-              <div class="item row">
-                <a class="col-md-5 col-12" href="https://centrifuge.io/" target="_blank">
-                  <img class="img-fluid project-image" src="assets/images/projects/project-6.png" alt="project name" />
-                </a>
-                <div class="col-md-7 col-12">
-                  <h3 class="title">
-                    <a href="https://centrifuge.io/">
-                      Tinlake Centrifuge - Asset backed lending protocol
-                    </a>
-                  </h3>
-                  <p class="mb-2">
-                    - <strong>Develop Stack</strong> :<br />
-                    React / Gatsby / GraphQL / Contentful CMS
-                  </p>
-                  <p class="mb-2">
-                    - <strong>What I have done</strong> :<br />
-                    <li><strong>Scratch Development</strong></li>
-                    <li>Made UI Components, Pages, Layout Strucutre From Scratch </li>
-                    <li>Used GraphQL</li>
-                    <li>Used MarkDown</li>
-                    <li>Integrated 3rd Party API</li>
-                    <li>Made it Mobile Responsive</li>
-                    <li>Used Contentful CMS</li>
                   </p>
                 </div>
               </div>
