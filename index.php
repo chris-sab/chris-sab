@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior VueJS | SvelteJS | NuxtJS | AngularJS | Angular2+ | Quasar | Gridsome | ElderJS | Sapper Developer
+          Senior Web Frontend VueJS | React | Angular | NuxtJS | NextJS | Quasar | Gridsome | Gatsby Expert
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -46,26 +46,37 @@
           <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
-              Experienced senior web developer with a demonstrated history of working in
-              marketing, education. Very top-rated skilful in vuejs, sveltejs, nuxtjs, angularjs, angular2+, quasar, sapper,
-              gridsome.
+              Experienced senior web frontend developer with a demonstrated history of working in
+              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in vuejs, react, nuxtjs, nextjs, quasar, gridsome, gatsby.
             </p>
             <div class="content">
               <p>
                 - <strong>VueJS Frontend Development</strong><br>
-                VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Quasar, Gridsome, Sapper, VueXORM, VueSaX, TailwindCSS, Vuetify
+                VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Vue Quasar, Gridsome, Vuex, VueSaX, TailwindCSS, Vuetify Buefy, Vue BootStrap, Vue Material
               </p>
               <p>
-                - <strong>SvelteJS Frontend Development</strong><br>
-                SvelteJS, Sapper, ElderJS
+                - <strong>React Frontend Development</strong><br>
+                React, Gatsby, Redux Thunk, Redux Saga, Context, Jumpsuit, Rematch, Recompose, Mobx, Styled Component, Apollo GraphQL, DVA, Next.js, Storybook, ReactXP, Ant Design
               </p>
               <p>
                 - <strong>Angular Frontend Development</strong><br>
-                AngularJS, Angular2+
+                Angular v1/v2 /v4/v5/v6/v7, AngularDart, Ngrx
+              </p>
+              <p>
+                - <strong>UI Frameworks/Libraries</strong><br>
+                BootStrap, Semantic UI, Material UI, Bulma, Foundation, Materialize
               </p>
               <p>
                 - <strong>Backend RESTful API Development/Integration</strong><br>
                 Node.js, Nest.js, Express.js, PHP / Laravel
+              </p>
+              <p>
+                - <strong>Databases</strong><br>
+                Postgres, GraphQL, MongoDB, MySQL, DynamoDB
+              </p>
+              <p>
+                - <strong>CMSs</strong><br>
+                Contentful, Netlify, ExpressionEngine, Prismic, GraphCMS, Cosmic, Joomla
               </p>
               <p>
                 - <strong>Firebase Development/Deployment</strong><br>
