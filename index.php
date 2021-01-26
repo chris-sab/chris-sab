@@ -165,6 +165,32 @@
             <div class="content">
 
               <div class="item row">
+                <a class="col-md-5 col-12" href="https://newco.ch/en/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-18.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h2 class="title">
+                    <a href="https://newco.ch/en/" target="_blank">
+                      Commercial Company Management WebSite
+                    </a>
+                  </h2>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    VueJS / NuxtJS / PHP / Laravel / Postgresql / Docker
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch</li>
+                    <li>Made It Mobile Responsive</li>
+                    <li>Used Bootstrap Vue</li>
+                    <li>Integrated Back End</li>
+                  </p>
+                </div>
+              </div>
+
+
+              <div class="item row">
                 <a class="col-md-5 col-12" href="https://costcertified.com/" target="_blank">
                   <img class="img-fluid project-image" src="assets/images/projects/project-1.png" alt="project name" />
                 </a>
@@ -544,6 +570,11 @@
           <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
             <h2 class="heading">Work Experience</h2>
             <div class="content">
+              <div class="item">
+                <h3 class="title">Web Frontend Developer | SecureitIT - <span class="year">(2020
+                    - 2021)</span></h3>
+                <p>Developed Company Management Web Service Frontend with VueJS/NuxtJS as a web frontend developer</p>
+              </div>
               <div class="item">
                 <h3 class="title">Web Developer | Vizanda - <span class="year">(2018
                     - 2019)</span></h3>
