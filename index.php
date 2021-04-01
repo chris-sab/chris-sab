@@ -24,7 +24,7 @@
         style="border-radius: 50%;" />
       <div class="profile-content float-left">
         <h1 class="name" style="color: white;">
-          Christopher Saburo
+          Christopher Saburo (nobu)
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
           Senior Web Frontend VueJS | React | Angular | NuxtJS | NextJS | Quasar | Gridsome | Gatsby Expert
