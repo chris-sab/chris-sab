@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior Web Frontend  SvelteJS | VueJS | React | NuxtJS | Sapper | Quasar | Gridsome Developer
+          Senior Web Frontend &nbsp;&nbsp;SvelteJS | VueJS | React | NuxtJS | Sapper | Quasar | Gridsome Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
