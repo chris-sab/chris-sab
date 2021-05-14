@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior Web Frontend VueJS | React | Angular | NuxtJS | NextJS | Quasar | Gridsome | Gatsby Expert
+          Senior Web Front End Svelte | VueJS | React | NuxtJS | Sapper | Quasar | Gridsome | ElderJS Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -50,6 +50,10 @@
               marketing, education, CRM, enterprise management web sites. Very top-rated skilful in vuejs, react, nuxtjs, nextjs, quasar, gridsome, gatsby.
             </p>
             <div class="content">
+              <p>
+                - <strong>SvelteJS Frontend Development</strong><br>
+                SvelteJS, SapperJS, ElderJS, Snowpack, Vite, SvelteKit
+              </p>
               <p>
                 - <strong>VueJS Frontend Development</strong><br>
                 VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Vue Quasar, Gridsome, Vuex, VueSaX, TailwindCSS, Vuetify Buefy, Vue BootStrap, Vue Material
