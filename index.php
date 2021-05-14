@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Senior Web Frontend  Svelte | VueJS | React | NuxtJS | Sapper | Quasar | Gridsome Developer
+          Senior Web Frontend  SvelteJS | VueJS | React | NuxtJS | Sapper | Quasar | Gridsome Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -47,7 +47,7 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web frontend developer with a demonstrated history of working in
-              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in vuejs, react, nuxtjs, nextjs, quasar, gridsome, gatsby.
+              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in sveltejs, vuejs, react, nuxtjs, nextjs, quasar, gridsome, gatsby.
             </p>
             <div class="content">
               <p>
