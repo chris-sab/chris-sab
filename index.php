@@ -71,26 +71,8 @@
                 BootStrap, Semantic UI, Material UI, Bulma, Foundation, Materialize
               </p>
               <p>
-                - <strong>Backend RESTful API Development/Integration</strong><br>
-                Node.js, Nest.js, Express.js, PHP / Laravel
-              </p>
-              <p>
-                - <strong>Databases</strong><br>
-                Postgres, GraphQL, MongoDB, MySQL, DynamoDB
-              </p>
-              <p>
                 - <strong>CMSs</strong><br>
                 Contentful, Netlify, ExpressionEngine, Prismic, GraphCMS, Cosmic, Joomla
-              </p>
-              <p>
-                - <strong>Firebase Development/Deployment</strong><br>
-                Firebase Authentication, Firebase Realtime Database, Firebase Could Store, Firebase
-                Cloud functions, Firebase Analytics,
-                Firebase Hosting, Firebase-CLI
-              </p>
-              <p>
-                - <strong>Amazon Web Service Development/Deployment</strong><br>
-                AWS Amplify, AWS Lambda, Amazon Cognito, Amazon EC2, Amazon S3, AWS CLI
               </p>
             </div>
             <hr>
