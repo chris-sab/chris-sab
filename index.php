@@ -47,7 +47,7 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web frontend developer with a demonstrated history of working in
-              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in sveltejs, vuejs, react, nuxtjs, nextjs, quasar, gridsome, gatsby.
+              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in sveltejs, vuejs, angularjs, angular2+, nuxtjs, quasar, gridsome.
             </p>
             <div class="content">
               <p>
@@ -59,12 +59,8 @@
                 VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Vue Quasar, Gridsome, Vuex, VueSaX, TailwindCSS, Vuetify Buefy, Vue BootStrap, Vue Material
               </p>
               <p>
-                - <strong>React Frontend Development</strong><br>
-                React, Gatsby, Redux Thunk, Redux Saga, Context, Jumpsuit, Rematch, Recompose, Mobx, Styled Component, Apollo GraphQL, DVA, Next.js, Storybook, ReactXP, Ant Design
-              </p>
-              <p>
                 - <strong>Angular Frontend Development</strong><br>
-                Angular v1/v2 /v4/v5/v6/v7, AngularDart, Ngrx
+                AngularJS,  Angular v1/v2/v4/v5/v6/v7, AngularDart, Ngrx
               </p>
               <p>
                 - <strong>UI Frameworks/Libraries</strong><br>
@@ -170,6 +166,31 @@
                     <li>Made UI Components, Pages, Layout Strucutre From Scratch</li>
                     <li>Made It Mobile Responsive</li>
                     <li>Used Bootstrap Vue</li>
+                    <li>Integrated Back End</li>
+                  </p>
+                </div>
+              </div>
+
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://www.hchdev.homecaptain.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-19.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h2 class="title">
+                    <a href="https://www.hchdev.homecaptain.com/" target="_blank">
+                      Real Estate Management WebSite
+                    </a>
+                  </h2>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    Angular / NgxBootstrap / NodeJS / Express /DataTree API
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch</li>
+                    <li>Made It Mobile Responsive</li>
+                    <li>Used NgxBootstrap</li>
                     <li>Integrated Back End</li>
                   </p>
                 </div>
