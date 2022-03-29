@@ -145,6 +145,30 @@
           <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
             <h2 class="heading">Latest Projects</h2>
             <div class="content">
+              <div class="item row">
+                <a class="col-md-5 col-12" href="https://frizwoods.com/" target="_blank">
+                  <img class="img-fluid project-image" src="assets/images/projects/project-20.png" alt="project name" />
+                </a>
+                <div class="col-md-7 col-12">
+                  <h2 class="title">
+                    <a href="https://frizwoods.com/" target="_blank">
+                      Attorneys & Lawyers Consultation Site
+                    </a>
+                  </h2>
+                  <p class="mb-2">
+                    - <strong>Develop Stack</strong> :<br />
+                    Sveltekit / API Integration / WCAG 2.1
+                  </p>
+                  <p class="mb-2">
+                    - <strong>What I have done</strong> :<br />
+                    <li><strong>Scratch Development</strong></li>
+                    <li>Made UI Components, Pages, Layout Strucutre From Scratch</li>
+                    <li>Integrated 3rd Party API</li>
+                    <li>Made Website Mobile Responsive</li>
+                    <li>Made Website WCAG Standard</li>
+                  </p>
+                </div>
+              </div>
 
               <div class="item row">
                 <a class="col-md-5 col-12" href="https://newco.ch/en/" target="_blank">
@@ -195,7 +219,6 @@
                   </p>
                 </div>
               </div>
-
 
               <div class="item row">
                 <a class="col-md-5 col-12" href="https://costcertified.com/" target="_blank">
