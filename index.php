@@ -27,7 +27,7 @@
           Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
-          Web Frontend &nbsp;&nbsp;React, Svelte | Vue | Angular2+ | Nuxt | Sapper | Quasar | Gridsome Developer
+          Web Frontend &nbsp;&nbsp;React | Svelte | Vue | Angular2+ | Nuxt | Sapper | Quasar | Gridsome Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
@@ -52,15 +52,15 @@
             <div class="content">
               <p>
                 - <strong>React Frontend Development</strong><br>
-                React, Redux, Gatsby, NextJS
+                React, Redux, Redux-Saga, Gatsby, NextJS
               </p>
               <p>
-                - <strong>SvelteJS Frontend Development</strong><br>
-                SvelteJS, SapperJS, ElderJS, Snowpack, Vite, SvelteKit
+                - <strong>Svelte Frontend Development</strong><br>
+                Svelte, Sapper, Elder, Snowpack, Vite, SvelteKit
               </p>
               <p>
-                - <strong>VueJS Frontend Development</strong><br>
-                VueJS, Vue 2, Vue 3, Vue-CLI, NuxtJS, Vue Quasar, Gridsome, Vuex, VueSaX, TailwindCSS, Vuetify Buefy, Vue BootStrap, Vue Material
+                - <strong>Vue Frontend Development</strong><br>
+                Vue, Vue 2, Vue 3, Vue-CLI, Nuxt, Vue Quasar, Gridsome, Vuex, VueSaX, TailwindCSS, Vuetify Buefy, Vue BootStrap, Vue Material
               </p>
               <p>
                 - <strong>Angular Frontend Development</strong><br>
