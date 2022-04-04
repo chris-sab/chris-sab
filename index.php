@@ -47,9 +47,13 @@
             <h2 class="heading">About Me</h2>
             <p style="font-size: 1.2rem;">
               Experienced senior web frontend developer with a demonstrated history of working in
-              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in sveltejs, vuejs, angularjs, angular2+, nuxtjs, quasar, gridsome.
+              marketing, education, CRM, enterprise management web sites. Very top-rated skilful in react, sveltejs, vuejs, angularjs, angular2+, nuxtjs, quasar, gridsome.
             </p>
             <div class="content">
+              <p>
+                - <strong>React Frontend Development</strong><br>
+                React, Redux, Gatsby, NextJS
+              </p>
               <p>
                 - <strong>SvelteJS Frontend Development</strong><br>
                 SvelteJS, SapperJS, ElderJS, Snowpack, Vite, SvelteKit
