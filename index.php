@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Christpher Saburo Portfolio">
+  <meta name="description" content="Christpher Sabbach Portfolio">
   <link rel="shortcut icon" href="favicon.ico">
   <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet'
     type='text/css'>
@@ -30,9 +30,9 @@
           Web Frontend &nbsp;&nbsp;React | Svelte | Vue | Angular2+ | Nuxt | Sapper | Quasar | Gridsome Developer
         </h2>
         <ul class="social list-inline">
-          <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-saburo-048a771a2/"><i
+          <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-s-048a771a2/"><i
                 class="fab fa-linkedin-in"></i></a></li>
-          <li class="list-inline-item"><a href="https://github.com/chris-saburo/"><i class="fab fa-github-alt"></i></a>
+          <li class="list-inline-item"><a href="https://github.com/chris-sab/"><i class="fab fa-github-alt"></i></a>
           </li>
         </ul>
       </div>
@@ -559,7 +559,7 @@
   <footer class="footer" style="background-color: #172b4d;">
     <div class=" container text-center">
       <small class="copyright" style="color: white; font-size: 1rem; font-weight: bolder;">
-        Christopher Saburo
+        Christopher Sabbach
       </small>
     </div>
   </footer>
