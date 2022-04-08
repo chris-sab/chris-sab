@@ -30,9 +30,15 @@
           Web Frontend &nbsp;&nbsp;React | Svelte | Vue | Angular2+ | Nuxt | Sapper | Quasar | Gridsome Developer
         </h2>
         <ul class="social list-inline">
-          <li class="list-inline-item"><a href="https://www.linkedin.com/in/christopher-s-048a771a2/"><i
-                class="fab fa-linkedin-in"></i></a></li>
-          <li class="list-inline-item"><a href="https://github.com/chris-sab/"><i class="fab fa-github-alt"></i></a>
+          <li class="list-inline-item">
+            <a href="https://www.linkedin.com/in/christopher-sab/">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="https://github.com/chris-sab/">
+              <i class="fab fa-github-alt"></i>
+            </a>
           </li>
         </ul>
       </div>
@@ -522,34 +528,6 @@
                 </div>
               </div>
 
-            </div>
-          </div>
-        </section>
-        <section class="experience section" style="box-shadow: 0 1px 6px rgba(57,73,76,.35);">
-          <div class="section-inner" style="background-color: white; border-radius: 1rem; color: black;">
-            <h2 class="heading">Work Experience</h2>
-            <div class="content">
-              <div class="item">
-                <h3 class="title">Web Frontend Developer | SecureitIT - <span class="year">(2020
-                    - 2021)</span></h3>
-                <p>Developed Company Management Web Service Frontend with VueJS/NuxtJS as a web frontend developer</p>
-              </div>
-              <div class="item">
-                <h3 class="title">Web Developer | Vizanda - <span class="year">(2018
-                    - 2019)</span></h3>
-                <p>Features include 90-day workout plans, email reminders, a custom workout routine
-                  builder, a workout page with voice
-                  cues, workout tracking, 60+ exercise pages, and exercise search with faceted
-                  navigation and filtering.</p>
-              </div>
-              <!--//item-->
-              <div class="item">
-                <h3 class="title">Developer | Nomura - <span class="year">(2014 - 2018)</span></h3>
-                <p>Worked on an admin application built with React.js. Responsible for creating a User
-                  Interface that would match the
-                  design I was given, I also had to modify the structure of the App to improve the
-                  User Experience.</p>
-              </div>
             </div>
           </div>
         </section>
