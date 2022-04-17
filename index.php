@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-  <title>Christopher Sabbach</title>
+  <title>Christopher Saburo</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Christpher Sabbach Portfolio">
+  <meta name="description" content="Christpher Saburo Portfolio">
   <link rel="shortcut icon" href="favicon.ico">
   <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet'
     type='text/css'>
@@ -24,19 +24,19 @@
         style="border-radius: 50%;" />
       <div class="profile-content float-left">
         <h1 class="name" style="color: white;">
-          Christopher Sabbach
+          Christopher Saburo
         </h1>
         <h2 class="desc" style="color: white; font-size: 20px;">
           Web Frontend &nbsp;&nbsp;React | Svelte | Vue | Angular2+ | Nuxt | Sapper | Quasar | Gridsome Developer
         </h2>
         <ul class="social list-inline">
           <li class="list-inline-item">
-            <a href="https://www.linkedin.com/in/christopher-sab/">
+            <a href="https://www.linkedin.com/in/christopher-saburo/">
               <i class="fab fa-linkedin-in"></i>
             </a>
           </li>
           <li class="list-inline-item">
-            <a href="https://github.com/chris-sab/">
+            <a href="https://github.com/chris-saburo/">
               <i class="fab fa-github-alt"></i>
             </a>
           </li>
@@ -104,8 +104,8 @@
             <h2 class="heading">Basic Information</h2>
             <div class="content">
               <ul class="list-unstyled">
-                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>United States,
-                  Florida</li>
+                <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Japan,
+                  Oita</li>
                 <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span><a
                     href="#">christopher.sab@outlook.com</a></li>
                 <li><i class="fab fa-skype"></i><span class="sr-only">Skype:</span><a
@@ -537,7 +537,7 @@
   <footer class="footer" style="background-color: #172b4d;">
     <div class=" container text-center">
       <small class="copyright" style="color: white; font-size: 1rem; font-weight: bolder;">
-        Christopher Sabbach
+        Christopher Saburo
       </small>
     </div>
   </footer>
