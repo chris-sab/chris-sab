@@ -1,0 +1,17 @@
+[
+    {
+        "firstName": "ENRQUE",
+        "lastName": "MORENO",
+        "phone": "1111110001",
+        "address": "6621 S KNOX AVE",
+        "city": "CHGO",
+        "state": "IL",
+        "zip": "60629",
+        "email": "DJHYPNOTIZE_CHJ@ATT.NET",
+        "dateOfBirth": "1985-01-15T12:00:00",
+        "ssn": "332766340",
+        "userOrders": null,
+        "isSold": false,
+        "id": 105818
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "DARIEN",
+        "lastName": "RUDOLPH",
+        "phone": "9316987215",
+        "address": "1100 SHADOW GREEN DR APT 11104",
+        "city": "FRANKLIN",
+        "state": "TN",
+        "zip": "37064",
+        "email": "DARIENDEVOUR@GMAIL.COM",
+        "dateOfBirth": "1993-03-06T12:00:00",
+        "ssn": "260858707",
+        "userOrders": null,
+        "isSold": false,
+        "id": 105491
+    },
+    {
+        "firstName": "CHELSIE",
+        "lastName": "DAVIS",
+        "phone": "6182160561",
+        "address": "903 ALTON ST",
+        "city": "ALTN",
+        "state": "IL",
+        "zip": "62002",
+        "email": "DLCRAWFORD1969@YAHOO.COM",
+        "dateOfBirth": "1993-11-12T12:00:00",
+        "ssn": "356888083",
+        "userOrders": null,
+        "isSold": false,
+        "id": 105816
+    },
+    {
+        "firstName": "BOHANNON",
+        "lastName": "DAVIDSON",
+        "phone": "3142437324",
+        "address": "4025 GREER AVE",
+        "city": "ST LOUIS",
+        "state": "LOUIS",
+        "zip": "63107",
+        "email": "GRASONJ73@GMAIL.COM",
+        "dateOfBirth": "1993-04-16T12:00:00",
+        "ssn": "491088438",
+        "userOrders": null,
+        "isSold": false,
+        "id": 105883
+    }
+]
